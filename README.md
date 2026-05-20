@@ -1,0 +1,1 @@
+Hello! This is my recommendation-engine-turned-pokemon-starter-algorithm! This project was started as I was following Khan Academy's Intro to CS course, on Unit 2 Lesson 5. Will be submitting this now!
