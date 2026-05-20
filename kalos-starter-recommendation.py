@@ -1,3 +1,4 @@
+# Version 1.0 - Sycamore Edition
 # Recommendation engine that tells u what Kalos starter to choose
 
 # Recommendations
